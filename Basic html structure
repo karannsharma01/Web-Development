@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apni Kaksha | Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Apni Kaksha</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">College Review</a>
+        <a href="#">Course</a>
+        <a href="#">Study Material</a>
+        <a href="#">Login/Signup</a>
+    </nav>
+    <main>
+        <section>
+            <h2>Courses</h2>
+            <video src="http://"width="33%" poster="" controls></video>
+            <video src="http://"width="33%" poster="" controls></video>
+            <video src="http://"width="33%" poster="" controls></video>
+            <br>
+            <video src="http://"width="33%" poster="" controls></video>
+            <video src="http://"width="33%" poster="" controls></video>
+            <video src="http://"width="33%" poster="" controls></video>
+        </section>
+        <section>
+            <h2>College Review</h2>
+            <iframe width="33%" height="315" src="https://www.youtube.com/embed/61ppyY5rUB0?si=zo6VSeQ0EE7XpF_j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="33%" height="315" src="https://www.youtube.com/embed/61ppyY5rUB0?si=zo6VSeQ0EE7XpF_j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="33%" height="315" src="https://www.youtube.com/embed/61ppyY5rUB0?si=zo6VSeQ0EE7XpF_j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </section>
+        <section>
+            <h2>Study Material</h2>
+            <a target="_blank" href=""><img src=""alt=""width="24%" height="60%"></a>
+            <a target="_blank" href=""><img src=""alt=""width="24%" height="60%"></a>
+            <a target="_blank" href=""><img src=""alt=""width="24%" height="60%"></a>
+            <a target="_blank" href=""><img src=""alt=""width="24%" height="60%"></a>
+        </section>
+        <section>
+            <h2>Our Founder</h2>
+            <img src="" alt="This is Aman Dhattarwal">
+            <h3>Aman Dhattarwal</h3>
+            <a href="http://www." target="_blank" rel="noopener noreferrer">Youtube</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="http://www." target="_blank" rel="noopener noreferrer">Linkedin</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="http://www." target="_blank" rel="noopener noreferrer">Twitter</a>
+            <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora inventore qui cum odit at assumenda eos soluta unde voluptate eligendi rerum eum corporis, quisquam vitae nesciunt, rem maxime ratione voluptatum.
+            </h3>
+            <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam ea consectetur nisi fuga possimus repellat animi, sit quo, minus fugiat ratione? Rem ipsam nam recusandae numquam totam animi. Minima veritatis tempora optio saepe numquam dolor ducimus ipsa, nemo vel nobis, repudiandae omnis, earum ea corrupti quas! Iusto veniam, repellendus corporis magni, cum deleniti magnam vel aspernatur laborum quam ullam, earum architecto! Ducimus, qui eaque adipisci aut facilis optio perferendis. Cupiditate consectetur dolor, molestias nulla voluptate similique totam sapiente, maxime, porro eligendi eum aperiam provident! Eius laborum, dicta culpa blanditiis aliquid suscipit placeat sequi quidem! Quis laborum culpa quisquam itaque repellendus.</h4>
+        </section>
+    </main>
+    <footer>
+        <a href="#">FAQ</a>
+        <a href="#">Contact Us</a>
+        <a href="#">Terms of Use</a>
+        <a href="#">Privacy Policy</a>
+        <a href="#">Refund Policy</a>
+        <a href="#">&copy; 2023 | Apni Kaksha</a>
+    </footer>
+    
+</body>
+</html>
